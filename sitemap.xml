@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://gemmy123.com/index.html</loc>
+    <lastmod>2017-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gemmy123.com/images/01.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://gemmy123.com/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1.html</loc>
+    <lastmod>2017-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gemmy123.com/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1.html</loc>
+    <lastmod>2017-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gemmy123.com/%E6%88%91%E7%9A%84%E4%BD%9C%E4%B8%9A.html</loc>
+    <lastmod>2017-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gemmy123.com/%E7%94%B5%E5%AD%90%E7%AE%80%E5%8E%86.html</loc>
+    <lastmod>2017-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gemmy123.com/untitled-6.html</loc>
+    <lastmod>2017-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

@@ -1,0 +1,125 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gemmy123.com" resolutions="1x" timestamp="1500533296418">
+  <folder name="css">
+    <file name="site_global.css" crc="415771566"/>
+    <file name="untitled-6.css" crc="4193191577" ref="untitled-6"/>
+    <file name="____2.css" crc="4193191577" ref="我的作业"/>
+    <file name="____1.css" crc="4193191577" ref="界面设计"/>
+    <file name="____.css" crc="4025373516" ref="交互设计"/>
+    <file name="index.css" crc="4077365127" ref="index"/>
+    <file name="____3.css" crc="4193191577" ref="电子简历"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:交互设计:界面设计:我的作业:电子简历:untitled-6"/>
+    <file name="museutils.js" crc="4216313831" ref="index:交互设计:界面设计:我的作业:电子简历:untitled-6"/>
+    <file name="whatinput.js" crc="86476730" ref="index:交互设计:界面设计:我的作业:电子简历:untitled-6"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:交互设计:界面设计:我的作业:电子简历:untitled-6"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:交互设计"/>
+    <file name="webpro.js" crc="4143865194" ref="index:交互设计"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:交互设计"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:交互设计"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:交互设计"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:交互设计:界面设计:我的作业:电子简历:untitled-6"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:交互设计"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:交互设计:界面设计:我的作业:电子简历:untitled-6"/>
+    <file name="require.js" crc="3951022091" ref="index:交互设计:界面设计:我的作业:电子简历:untitled-6"/>
+  </folder>
+  <folder name="images">
+    <file name="bc19e132cd7560b31a94f590c397121d.jpg" crc="390353855" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e0ded0cf6735f5be3c6388f4db3af25b.jpg" crc="73257774" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:交互设计"/>
+    <file name="u2671-4.png" crc="385398683" ref="index"/>
+    <file name="bd315c6034a85edfc814853343540923dd547501.jpg" crc="4258545277" ref="index:交互设计">
+      <caption webpage="index" alt=""/>
+      <caption webpage="交互设计" alt=""/>
+    </file>
+    <file name="u2730.png" crc="191781071" ref="index"/>
+    <file name="u2730-r.png" crc="191781071" ref="index"/>
+    <file name="u=4191675124,3128792271-fm=26-gp=0.jpg" crc="3885840055" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2767.png" crc="172254029" ref="index"/>
+    <file name="u2767-r.png" crc="172254029" ref="index"/>
+    <file name="01.jpg" crc="4139232307" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2032.png" crc="496400947" ref="index"/>
+    <file name="u2032-r.png" crc="496400947" ref="index"/>
+    <file name="yestone_d73229257.jpg" crc="4000513389" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2780.png" crc="295213868" ref="index"/>
+    <file name="u2780-r.png" crc="295213868" ref="index"/>
+    <file name="staff_1024.jpg" crc="4284465423" ref="index:交互设计">
+      <caption webpage="index" alt=""/>
+      <caption webpage="交互设计" alt=""/>
+    </file>
+    <file name="u2803.png" crc="350209791" ref="index"/>
+    <file name="u2803-r.png" crc="350209791" ref="index"/>
+    <file name="u2812.png" crc="4020892884" ref="index"/>
+    <file name="u2812-r.png" crc="4020892884" ref="index"/>
+    <file name="u2894-4.png" crc="3959401150" ref="index"/>
+    <file name="电影院.jpg" crc="358268699" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2956-4.png" crc="2118789" ref="index"/>
+    <file name="u2959-4.png" crc="3775950704" ref="index"/>
+    <file name="u2947-4.png" crc="2118789" ref="index"/>
+    <file name="u2950-4.png" crc="3775950704" ref="index"/>
+    <file name="u2965-4.png" crc="2118789" ref="index"/>
+    <file name="u2968-4.png" crc="3775950704" ref="index"/>
+    <file name="u2981-4.png" crc="3761630131" ref="index"/>
+    <file name="下一页-u3272.png" crc="3900750778" ref="index"/>
+    <file name="18f6f7d8f7194eaa69bfa96dd460087d.jpg" crc="360191088" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="91683972867b2a9285a6bb34995c9c26.jpg" crc="352730016" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2987-4.png" crc="402404469" ref="index"/>
+    <file name="u2990-4.png" crc="435934777" ref="index"/>
+    <file name="下一页-u3252.png" crc="3900750778" ref="index"/>
+    <file name="cabde9b6727b84a4e51e768bca6d19df.jpg" crc="478436918" ref="交互设计">
+      <caption webpage="交互设计" alt=""/>
+    </file>
+    <file name="u1059-7.png" crc="337622526" ref="交互设计"/>
+    <file name="u1076-7.png" crc="4107787041" ref="交互设计"/>
+    <file name="u1039-7.png" crc="205520440" ref="交互设计"/>
+    <file name="552648484.jpg" crc="106700346" ref="交互设计">
+      <caption webpage="交互设计" alt=""/>
+    </file>
+    <file name="u1925.png" crc="199081454" ref="index"/>
+    <file name="u1925-r.png" crc="4155426201" ref="index"/>
+    <file name="u1928.png" crc="4001379270" ref="index"/>
+    <file name="u1928-r.png" crc="502912726" ref="index"/>
+    <file name="u1937.png" crc="285545185" ref="index"/>
+    <file name="u1937-r.png" crc="3878440410" ref="index"/>
+    <file name="u1940.png" crc="3820368178" ref="index"/>
+    <file name="u1940-r.png" crc="4131851750" ref="index"/>
+    <file name="u1943.png" crc="4127578961" ref="index"/>
+    <file name="u1943-r.png" crc="98580148" ref="index"/>
+    <file name="u3432.png" crc="199081454" ref="index"/>
+    <file name="u3432-r.png" crc="4155426201" ref="index"/>
+    <file name="u3433.png" crc="4001379270" ref="index"/>
+    <file name="u3433-r.png" crc="502912726" ref="index"/>
+    <file name="u3434.png" crc="285545185" ref="index"/>
+    <file name="u3434-r.png" crc="3878440410" ref="index"/>
+    <file name="u3435.png" crc="3820368178" ref="index"/>
+    <file name="u3435-r.png" crc="4131851750" ref="index"/>
+    <file name="u3436.png" crc="4127578961" ref="index"/>
+    <file name="u3436-r.png" crc="98580148" ref="index"/>
+  </folder>
+  <file name="index.html" crc="276489526" seo="true" mt="1500533128078" redirect="true"/>
+  <file name="交互设计.html" crc="416220588" seo="true" mt="1500532932638" redirect="true"/>
+  <file name="界面设计.html" crc="3943499414" seo="true" mt="1500470139128" redirect="false"/>
+  <file name="我的作业.html" crc="3842763369" seo="true" mt="1500470168040" redirect="false"/>
+  <file name="电子简历.html" crc="4244680784" seo="true" mt="1500470177265" redirect="false"/>
+  <file name="untitled-6.html" crc="3789921474" seo="true" mt="1500511468666" redirect="false"/>
+</manifest>
